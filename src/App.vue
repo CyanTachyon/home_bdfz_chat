@@ -14,7 +14,7 @@ const allCategories = computed(() => {
     list.push({
       id: 'student-blog',
       title: '学生博客',
-      description: '来自 bdfz.chat 的学生博客',
+      description: '来自 bdfz.net 的学生博客',
       links: blogLinks.value
     })
   }
